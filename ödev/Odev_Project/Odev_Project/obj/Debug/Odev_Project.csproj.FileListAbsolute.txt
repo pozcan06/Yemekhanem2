@@ -1,0 +1,14 @@
+C:\Users\sarib\OneDrive\Masaüstü\ödev\Odev_Project\Odev_Project\bin\Debug\Odev_Project.exe.config
+C:\Users\sarib\OneDrive\Masaüstü\ödev\Odev_Project\Odev_Project\bin\Debug\Odev_Project.exe
+C:\Users\sarib\OneDrive\Masaüstü\ödev\Odev_Project\Odev_Project\bin\Debug\Odev_Project.pdb
+C:\Users\sarib\OneDrive\Masaüstü\ödev\Odev_Project\Odev_Project\bin\Debug\System.Data.SQLite.dll
+C:\Users\sarib\OneDrive\Masaüstü\ödev\Odev_Project\Odev_Project\bin\Debug\System.Data.SQLite.xml
+C:\Users\sarib\OneDrive\Masaüstü\ödev\Odev_Project\Odev_Project\obj\Debug\Odev_Project.csproj.AssemblyReference.cache
+C:\Users\sarib\OneDrive\Masaüstü\ödev\Odev_Project\Odev_Project\obj\Debug\Odev_Project.frmAnaSayfa.resources
+C:\Users\sarib\OneDrive\Masaüstü\ödev\Odev_Project\Odev_Project\obj\Debug\Odev_Project.Properties.Resources.resources
+C:\Users\sarib\OneDrive\Masaüstü\ödev\Odev_Project\Odev_Project\obj\Debug\Odev_Project.csproj.GenerateResource.cache
+C:\Users\sarib\OneDrive\Masaüstü\ödev\Odev_Project\Odev_Project\obj\Debug\Odev_Project.csproj.CoreCompileInputs.cache
+C:\Users\sarib\OneDrive\Masaüstü\ödev\Odev_Project\Odev_Project\obj\Debug\Odev_Pro.C242329C.Up2Date
+C:\Users\sarib\OneDrive\Masaüstü\ödev\Odev_Project\Odev_Project\obj\Debug\Odev_Project.exe
+C:\Users\sarib\OneDrive\Masaüstü\ödev\Odev_Project\Odev_Project\obj\Debug\Odev_Project.pdb
+C:\Users\sarib\OneDrive\Masaüstü\ödev\Odev_Project\Odev_Project\obj\Debug\Odev_Project.frmGiris.resources
